@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://xurk-sec.github.io/sitemap.xml
